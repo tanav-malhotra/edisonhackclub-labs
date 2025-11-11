@@ -1,0 +1,14 @@
+/* TEAM */
+Organization: EdisonTech (Thomas A. Edison CTE High School Hack Club)
+
+/* NOTICE */
+Respect scope. Stay on this site only.
+
+/* CLUB STAFF */
+Club President: Tanav — tanav@edisontech.example
+Advisor: Mr. Malik — ziyam@edisontech.example
+Club Vice President: Sudipto — sudipto@edisontech.example
+Director of Operations, Treasurer: Saleh — saleh@edisontech.example
+Director of Communications, Director of Organization: Felipe — felipe@edisontech.example
+
+

@@ -1,0 +1,9 @@
+Engineering Notes (internal)
+--------------------------------
+- Legacy "Employee Directory" search is still deployed under /legacy/search
+- Search filters by email address; known to be fragile with unusual inputs
+- Encoding layers used during incident drills; do not commit secrets
+
+Please migrate the old code path when time allows.
+
+

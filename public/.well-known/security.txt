@@ -1,0 +1,7 @@
+Contact: mailto:security@edisontech.example
+Policy: /security
+Acknowledgments: /humans.txt
+
+Scope: Only this site. Do not attack other services.
+
+

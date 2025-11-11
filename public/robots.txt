@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin
+Disallow: /old-site/
+Disallow: /notes/dev-notes.txt
+Disallow: /.well-known/security.txt
+Allow: /humans.txt
+Sitemap: /sitemap.xml
+
+

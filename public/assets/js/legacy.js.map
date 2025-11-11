@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "file": "legacy.js",
+  "sources": ["legacy.src.js"],
+  "sourcesContent": [
+    "/* Interns: check the legacy search page. */\\nexport function unused(){ return 'noop'; }\\n"
+  ],
+  "names": [],
+  "mappings": "AAAA"
+}
+
+
